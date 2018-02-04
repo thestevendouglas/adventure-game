@@ -1,0 +1,16 @@
+body {
+  background-repeat: no-repeat;
+  background-image: url(../images/coins.jpeg);
+}
+
+h1 {
+  font-family: bangers, cursive, sans-serif;
+  font-size: 5rem;
+}
+
+.button{
+  background-color: #F0E68C;
+  font-family: bangers, sans-serif;
+  border-radius: 75%;
+  border-color: black;
+}
